@@ -1,4 +1,4 @@
 # collegedemo
 This is my first git repository 
 <br>
-Author Krish Jagyasi
+Author Krish (Jagyasi)
